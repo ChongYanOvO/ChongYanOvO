@@ -1,4 +1,4 @@
-### Hi there 👋
+### 希望能成为一个有趣的人OvO
 
 <!--
 **ChongYanOvO/ChongYanOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
