@@ -15,6 +15,9 @@
 <a href="https://github.com/ChongYanOvO/akka-spark">
   <img src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/pin/?username=ChongYanOvO&repo=akka-spark" alt="ChongYanOvO"/>
 </a>
+<a href="https://github.com/ChongYanOvO/Recruitment-Analysis-Spark">
+  <img src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/pin/?username=ChongYanOvO&repo=Recruitment-Analysis-Spark" alt="ChongYanOvO"/>
+</a>
 
 ### Languages
 
