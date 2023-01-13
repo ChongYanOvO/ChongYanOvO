@@ -1,7 +1,5 @@
 ## 我是小韩,希望成为一个有趣的数据开发攻城狮🦁
-![GitHub followers](https://img.shields.io/github/followers/ChongYanOvO?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/ChongYanOvO?style=social)
-![GitHub](https://img.shields.io/github/license/ChongYanOvO/chongyandocs)
+
 ### 关于我 🤪
 - <a href="https://www.nuist.edu.cn/"><code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/NUIST.ico" alt="NUIST"/></code></a>南京信息工程大学计算机科学与技术专业大三在读
 - 目前的方向是<code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/flink.jpg" alt="flink" /></code>Flink流处理以及流批一体数据湖
