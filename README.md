@@ -8,12 +8,12 @@
 - [ChongyanDocs](www.chongyan.xyz)
 
 <a href="https://github.com/ChongYanOvO">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChongYanOvO&show_icons=true&theme=transparent" alt="ChongYanOvO"/>
+  <img src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api?username=ChongYanOvO&show_icons=true&theme=transparent" alt="ChongYanOvO"/>
 </a>
 
 ### 开发过的一些项目 🎉
 <a href="https://github.com/ChongYanOvO/akka-spark">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChongYanOvO&repo=akka-spark" alt="ChongYanOvO"/>
+  <img src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/pin/?username=ChongYanOvO&repo=akka-spark" alt="ChongYanOvO"/>
 </a>
 
 ### Languages
@@ -24,7 +24,7 @@
 <code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/c.svg" alt="c" /></a></code>
 <code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/sql.svg" alt="sql" /></a></code>
 <a href="https://github.com/ChongYanOvO">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChongYanOvO" alt="ChongYanOvO"/>
+  <img align="right" src="chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/top-langs?username=ChongYanOvO" alt="ChongYanOvO"/>
 </a>
 
 ### Frameworks 
