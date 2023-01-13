@@ -9,9 +9,9 @@
 ![ChongYanOvO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChongYanOvO&show_icons=true&theme=transparent)
 
 ### 开发过的一些项目 🎉
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChongYanOvO&repo=akka-spark" alt="ChongYanOvO"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChongYanOvO&repo=Recruitment-Analysis-Spark" alt="ChongYanOvO"/>
+<a href="https://github.com/ChongYanOvO/akka-spark">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChongYanOvO&repo=akka-spark" alt="ChongYanOvO"/>
+</a>
 
 ### Languages
 
