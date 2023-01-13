@@ -7,7 +7,7 @@
 - 喜欢鼓捣一些新技术,写过前端,写过后端,研究过云原生以及知识图谱
 
 <a href="https://github.com/ChongYanOvO">
-![ChongYanOvO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChongYanOvO&show_icons=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api?username=ChongYanOvO&show_icons=true&theme=transparent" alt="ChongYanOvO"/>
 </a>
 
 ### 开发过的一些项目 🎉
