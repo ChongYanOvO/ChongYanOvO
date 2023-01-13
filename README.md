@@ -8,7 +8,11 @@
 
 ### 开发过的一些项目 🎉
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChongYanOvO&repo=akka-spark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChongYanOvO&repo=akka-spark)](https://github.com/ChongYanOvO/akka-spark)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChongYanOvO&repo=Recruitment-Analysis-Spark)](https://github.com/ChongYanOvO/akka-spark)
+
 
 
 ### Languages
@@ -18,6 +22,7 @@
 <code><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/python.svg" alt="python" /></a></code>
 <code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/c.svg" alt="c" /></a></code>
 <code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/sql.svg" alt="sql" /></a></code>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChongYanOvO" alt="ChongYanOvO"/>
 
 ### Frameworks 
 
@@ -42,5 +47,4 @@
 
 ![ChongYanOvO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChongYanOvO&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChongYanOvO)](https://github.com/anuraghazra/github-readme-stats)
 
