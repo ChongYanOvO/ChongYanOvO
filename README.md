@@ -23,10 +23,8 @@
 <code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/linux.svg" alt="linux" /></code>
 <code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/mysql.svg" alt="mysql" /></code>
 <code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/docker.svg" alt="docker" /></code>
-<code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/kubernetes.svg" alt="kubernetes" /></code>
 <code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/kafka.svg" alt="kafka" /></code>
 <code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/redis.png" alt="redis" /></code>
-
-
 <code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/git.svg" alt="git" /></code>
+<code><img height="20" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/kubernetes.svg" alt="kubernetes" /></code>
 
